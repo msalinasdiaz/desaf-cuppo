@@ -1,0 +1,31 @@
+body {
+    margin: 0
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #28a745;
+}
+
+
+.formulario {
+    background-color:#28a745;
+}
+
+footer {
+    font-weight: lighter;
+    text-align: center;
+
+}
+
+
+.preciosverde {
+    color: #28a745;
+    font-size: 20px;
+ 
+    
+}
+
+.preciosgris {
+    color: #707070;
+}
